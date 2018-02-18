@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">robinmagic</string>
+    <string name="make_your_every_day_decision_easier" />
+    <string name="ask">ask</string>
+    <string name="todo" />
+    <string name="make">make your every day decision easier !</string>
+    <string name="try_your_luck_for_today">Try your luck for today !</string>
+</resources>
